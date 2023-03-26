@@ -33,5 +33,11 @@
     <ClCompile Include="입출력과 사칙연산_10171.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="조건문_1330.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="조건문_9498.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
