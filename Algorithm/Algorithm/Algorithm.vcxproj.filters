@@ -54,5 +54,11 @@
     <ClCompile Include="조건문_2480.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="반복문_2739.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복문_10950.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
