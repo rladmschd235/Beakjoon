@@ -102,5 +102,8 @@
     <ClCompile Include="1차원 배열_10810.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="음계_2920.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
