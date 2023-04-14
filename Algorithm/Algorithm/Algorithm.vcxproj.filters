@@ -114,5 +114,11 @@
     <ClCompile Include="반복문_15552.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="입출력과 사칙연산_1008.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열_5597.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
