@@ -126,5 +126,11 @@
     <ClCompile Include="1차원 배열_3052.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="사격 내기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="초코바.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
