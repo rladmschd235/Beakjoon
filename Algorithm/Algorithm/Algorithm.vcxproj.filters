@@ -126,10 +126,22 @@
     <ClCompile Include="1차원 배열_3052.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="사격 내기.cpp">
+    <ClCompile Include="초코바_27959.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="초코바.cpp">
+    <ClCompile Include="N찍기_2741.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기찍N_2742.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="더하기 사이클_1110.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="검증수_2475.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 개수_2577.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
