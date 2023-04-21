@@ -156,10 +156,16 @@
     <ClCompile Include="소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="크로아티아 알파벳_2941.cpp">
+    <ClCompile Include="입출력과 사칙연산_10172.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="입출력과 사칙연산_10172.cpp">
+    <ClCompile Include="별 찍기-13_2523.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기-5_2442.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열_10811.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
