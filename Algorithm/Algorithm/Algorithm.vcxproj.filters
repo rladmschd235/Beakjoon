@@ -168,5 +168,20 @@
     <ClCompile Include="1차원 배열_10811.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="방 번호_1475.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="엄청난 부자2_1271.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Moo_1809.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="긴자리 계산_2338.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="사파리 월드_2420.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
