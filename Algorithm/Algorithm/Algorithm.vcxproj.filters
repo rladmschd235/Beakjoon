@@ -183,5 +183,8 @@
     <ClCompile Include="사파리 월드_2420.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="오늘 날짜_10699.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
