@@ -192,5 +192,17 @@
     <ClCompile Include="문자열_10809.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="크냐_4101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="아_4999.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Welcome_5337.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="킹, 퀸, 룩, 비숍, 나이트, 폰_3003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
