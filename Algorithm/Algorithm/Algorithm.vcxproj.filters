@@ -210,5 +210,11 @@
     <ClCompile Include="마이크로소프트로고_5338.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="학점 계산_2754.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택_10828.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
