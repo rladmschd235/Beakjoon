@@ -13,6 +13,7 @@ int main()
 
 	for (int i = 0; i < number; i++)
 	{
+		bool correct = true;
 		cin >> str;
 		for (int j = 0; j < str.size(); j++)
 		{
@@ -29,15 +30,16 @@ int main()
 				}
 				else
 				{
-					arr.push(input);
+					correct = false;
+					//arr.push(input);
 				}
 			}
 		}
-		if (arr.empty())
+		if (arr.empty()&& correct == true)
 		{
 			cout << "YES\n";
 		}
-		else if (!arr.empty())
+		else if (!arr.empty() || correct == false)
 		{
 			cout << "NO\n";
 		}
