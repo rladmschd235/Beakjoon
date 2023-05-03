@@ -228,5 +228,8 @@
     <ClCompile Include="ROOK_2393.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="럭비클럽_2083.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
