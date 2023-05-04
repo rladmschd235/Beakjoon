@@ -187,6 +187,7 @@
     <ClCompile Include="마이크로소프트로고_5338.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="모음의 개수_1264.cpp" />
     <ClCompile Include="문자열_10809.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
