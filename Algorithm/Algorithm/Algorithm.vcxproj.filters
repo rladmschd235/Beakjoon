@@ -234,5 +234,20 @@
     <ClCompile Include="모음의 개수_1264.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="인공지능 시계_2530.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="세수정렬_2752.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파티가 끝나고 난 뒤_2845.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="R2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AFC 윔블던_4299.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
