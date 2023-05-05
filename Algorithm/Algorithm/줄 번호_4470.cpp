@@ -13,6 +13,6 @@ int main()
 	for (int i = 0; i < N; i++)
 	{
 		getline(cin, str);
-		str += (i + 1) + ". ";
+		cout << i+1 << ". " << str << endl;
 	}
 }

@@ -249,5 +249,14 @@
     <ClCompile Include="AFC 윔블던_4299.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="줄 번호_4470.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="방학 숙제_5532.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="상근날드_5543.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
