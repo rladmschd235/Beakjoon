@@ -258,5 +258,20 @@
     <ClCompile Include="상근날드_5543.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="입실 관리_5524.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="심부름 가는 길_5554.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="시험 점수_5596.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="상근이의 친구들_5717.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="평균 점수_10039.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
