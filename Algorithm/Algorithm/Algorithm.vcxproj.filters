@@ -273,5 +273,14 @@
     <ClCompile Include="평균 점수_10039.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="삼각형 외우기_10101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="과자_10156.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="특별한 날_10768.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
