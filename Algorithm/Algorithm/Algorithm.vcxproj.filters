@@ -282,5 +282,17 @@
     <ClCompile Include="특별한 날_10768.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="대소문자_2744_얘가 나 괴롭힘.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10부제_10797.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="뜨거운 붕어빵_11945.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐 2_18258.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
