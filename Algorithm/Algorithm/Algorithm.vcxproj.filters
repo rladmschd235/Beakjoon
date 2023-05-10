@@ -297,5 +297,8 @@
     <ClCompile Include="고려대는 사랑입니다_11942.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="특별한 학교 이름_27889.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
