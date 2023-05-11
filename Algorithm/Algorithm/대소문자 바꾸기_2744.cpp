@@ -12,7 +12,7 @@ int main()
 		{
 			str[i] = str[i] + ' ';
 		}
-		else if (str[i] <= 'z' && str[i] >'a')
+		else if (str[i] <= 'z' && str[i] >='a')
 		{
 			str[i] = str[i] - ' ';
 		}
