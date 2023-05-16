@@ -333,5 +333,11 @@
     <ClCompile Include="피보나치 수 5_10870.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="인사성 밝은 곰곰이_25192.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="콜센터_5339.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
