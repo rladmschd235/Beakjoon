@@ -339,5 +339,14 @@
     <ClCompile Include="콜센터_5339.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="행렬덧셈_2738.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값_2566.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="세로읽기_10798.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
