@@ -348,5 +348,11 @@
     <ClCompile Include="세로읽기_10798.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="직사각형_27323.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B_26711cpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
