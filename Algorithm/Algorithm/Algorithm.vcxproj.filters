@@ -333,9 +333,6 @@
     <ClCompile Include="피보나치 수 5_10870.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="인사성 밝은 곰곰이_25192.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="콜센터_5339.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -351,7 +348,10 @@
     <ClCompile Include="직사각형_27323.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="A+B_26711cpp.cpp">
+    <ClCompile Include="요세푸스 문제_1158.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="덩치_7568.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
