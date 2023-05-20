@@ -354,5 +354,11 @@
     <ClCompile Include="덩치_7568.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="요세푸스 문제 0_11866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="세 수_10817.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
