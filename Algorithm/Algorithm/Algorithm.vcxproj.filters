@@ -360,13 +360,16 @@
     <ClCompile Include="세 수_10817.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="팀 나누기.cpp">
+    <ClCompile Include="팀 나누기_13866.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="AC_5430.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="덱_10866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="열 개씩 끊어서 출력하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
