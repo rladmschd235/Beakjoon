@@ -372,5 +372,8 @@
     <ClCompile Include="열 개씩 끊어서 출력하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="헛간 청약_19698.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
