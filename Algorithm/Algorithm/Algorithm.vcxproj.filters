@@ -375,5 +375,14 @@
     <ClCompile Include="헛간 청약_19698.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="나는 누구인가_15733.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새로운 시작_15962.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연세대학교_15680.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
