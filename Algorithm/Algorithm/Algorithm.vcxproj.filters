@@ -396,5 +396,8 @@
     <ClCompile Include="첫 글자를 대문자로_4458.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="와글와글 숭고한_17388.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
