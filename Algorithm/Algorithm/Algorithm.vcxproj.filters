@@ -402,5 +402,8 @@
     <ClCompile Include="헛간 청약_19698.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="치킨댄스를 추는 곰곰이를 본 임스_25191.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
