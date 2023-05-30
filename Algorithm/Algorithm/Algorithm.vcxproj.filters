@@ -405,5 +405,14 @@
     <ClCompile Include="치킨댄스를 추는 곰곰이를 본 임스_25191.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="팩토리얼_10872.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="등록_7287.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="그대로 출력하기 2_11719.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
