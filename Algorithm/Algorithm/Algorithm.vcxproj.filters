@@ -423,5 +423,8 @@
     <ClCompile Include="조별과제를 하려는데 조장이 사라졌다_15727.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="카드게임_5522.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
