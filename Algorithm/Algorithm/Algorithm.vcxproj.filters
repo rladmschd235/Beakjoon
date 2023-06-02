@@ -204,9 +204,6 @@
     <ClCompile Include="킹, 퀸, 룩, 비숍, 나이트, 폰_3003.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="별 찍기-6_2443.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="마이크로소프트로고_5338.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -424,6 +421,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="카드게임_5522.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기-6_2443.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기-7_2444.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
