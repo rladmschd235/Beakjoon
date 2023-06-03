@@ -429,5 +429,8 @@
     <ClCompile Include="별 찍기-7_2444.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="다각형의 대각선_3049.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
