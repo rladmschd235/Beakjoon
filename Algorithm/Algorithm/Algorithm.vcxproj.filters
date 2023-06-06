@@ -444,5 +444,8 @@
     <ClCompile Include="직사각형에서 탈출_1085.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="UCPC에서 가장 쉬운 문제 번호는_25311.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

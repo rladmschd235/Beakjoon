@@ -382,6 +382,7 @@
     <ClCompile Include="아_4999.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="UCPC에서 가장 쉬운 문제 번호는_25311.cpp" />
     <ClCompile Include="엄청난 부자2_1271.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
