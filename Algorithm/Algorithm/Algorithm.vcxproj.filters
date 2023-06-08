@@ -450,5 +450,8 @@
     <ClCompile Include="별 찍기 - 12.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ACM 호텔_10250.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
