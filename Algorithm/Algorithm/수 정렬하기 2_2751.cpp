@@ -9,9 +9,9 @@ void merge(int left, int right) {
 	int p1, p2, p3;
 
 	if (left < right) {
-		mid = (left + right) / 2;
-		merge(left, mid);
-		merge(mid + 1, right);
+		mid = (left + right) / 2; // 중간 피벗
+		merge(left, mid); // 왼쪽 배열
+		merge(mid + 1, right); // 오른쪽 배열
 		p1 = left; // 정렬된 왼쪽 배열에 대한 인덱스
 		p2 = mid + 1; // 정렬된 오른쪽 리스트에 대한 인덱스
 		p3 = left; // 합병될 리스트에 대한 인덱스

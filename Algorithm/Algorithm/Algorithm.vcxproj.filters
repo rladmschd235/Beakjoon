@@ -309,7 +309,7 @@
     <ClCompile Include="수 정렬하기_2750.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="수 정렬하기 2_2751 다시 돌아온다.cpp">
+    <ClCompile Include="수 정렬하기 2_2751.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="카드1_2161.cpp">
@@ -451,6 +451,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ACM 호텔_10250.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스타워즈 로고_9653.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
