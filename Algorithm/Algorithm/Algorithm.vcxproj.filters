@@ -474,5 +474,14 @@
     <ClCompile Include="수 정렬하기 3_10989.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="나는야 포켓몬 마스터 이다솜_1620.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="베스트셀러_1302.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="듣보잡_1764.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
