@@ -303,9 +303,6 @@
     <ClCompile Include="카드2_2164.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="수 정렬하기 3_10989 다시 돌아온다.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="수 정렬하기_2750.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -481,6 +478,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="듣보잡_1764.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="카드_11652_다시.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="회사에 있는 사람_7785.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
