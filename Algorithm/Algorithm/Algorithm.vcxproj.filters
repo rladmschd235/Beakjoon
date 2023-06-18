@@ -486,5 +486,8 @@
     <ClCompile Include="회사에 있는 사람_7785.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="숫자 카드_10815.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
