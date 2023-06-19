@@ -489,5 +489,11 @@
     <ClCompile Include="숫자 카드_10815.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정보섬의 대중교통_28113.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 카드 2_10816.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
