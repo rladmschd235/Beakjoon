@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
+	unordered_map<string, string> unm;
 	int N, M;
 	string address, password;
-	unordered_map<string, string> unm;
 
 	cin >> N >> M;
 	
