@@ -15,6 +15,6 @@ int main()
 	}
 	else
 	{
-		cout << day + 1;
+		cout << day + 2;
 	}
 }
