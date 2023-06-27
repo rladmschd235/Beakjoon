@@ -466,6 +466,7 @@
     <ClCompile Include="인공지능 시계_2530.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="인사성 밝은 곰곰이_25192.cpp" />
     <ClCompile Include="입실 관리_5524.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

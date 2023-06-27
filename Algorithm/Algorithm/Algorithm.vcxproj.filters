@@ -516,5 +516,8 @@
     <ClCompile Include="CD_4158.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="인사성 밝은 곰곰이_25192.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
