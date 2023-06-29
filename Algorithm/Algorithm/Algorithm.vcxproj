@@ -433,6 +433,7 @@
     <ClCompile Include="UCPC에서 가장 쉬운 문제 번호는_25311.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="알파벳 개수_10808.cpp" />
     <ClCompile Include="암기왕_2776.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
