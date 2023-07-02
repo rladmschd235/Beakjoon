@@ -531,5 +531,8 @@
     <ClCompile Include="한별 찍기_24900.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="나부 함대 데이터_9654.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
