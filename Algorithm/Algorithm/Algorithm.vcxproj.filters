@@ -534,5 +534,14 @@
     <ClCompile Include="나부 함대 데이터_9654.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="패션왕 신해빈_9375.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="공_1547.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="대칭 차집합_1269.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
