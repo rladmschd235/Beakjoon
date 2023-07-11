@@ -552,5 +552,8 @@
     <ClCompile Include="카약_2890.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수 이어 쓰기 1_1748.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
