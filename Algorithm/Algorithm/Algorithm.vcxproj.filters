@@ -558,5 +558,8 @@
     <ClCompile Include="그룹 단어 체커_1316.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열 집합_14425.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
