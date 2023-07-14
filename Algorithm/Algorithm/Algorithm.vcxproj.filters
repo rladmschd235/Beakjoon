@@ -153,9 +153,6 @@
     <ClCompile Include="평균_1546.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="입출력과 사칙연산_10172.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -559,6 +556,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="문자열 집합_14425.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="쇠막대기_10799.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="카드_11652.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
