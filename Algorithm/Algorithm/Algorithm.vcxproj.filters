@@ -477,9 +477,6 @@
     <ClCompile Include="듣보잡_1764.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="카드_11652_다시.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="회사에 있는 사람_7785.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -562,6 +559,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="카드_11652.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="붙임성 좋은 총총이26069.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

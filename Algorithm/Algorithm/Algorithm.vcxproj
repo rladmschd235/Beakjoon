@@ -376,6 +376,7 @@
     <ClCompile Include="별 찍기-7_2444.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="붙임성 좋은 총총이26069.cpp" />
     <ClCompile Include="비밀번호 찾기_17219.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -589,8 +590,7 @@
     <ClCompile Include="카드2_2164.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="카드_11652.cpp" />
-    <ClCompile Include="카드_11652_다시.cpp">
+    <ClCompile Include="카드_11652.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="카드게임_5522.cpp">
