@@ -573,5 +573,11 @@
     <ClCompile Include="서로 다른 부분 문자열의 개수_11478.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="대표값2_2587.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="커트라인_25305.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
