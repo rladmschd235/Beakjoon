@@ -588,5 +588,8 @@
     <ClCompile Include="영수증_5565.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="좌표 정렬하기_11650.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
