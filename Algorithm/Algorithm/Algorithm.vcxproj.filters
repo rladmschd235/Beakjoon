@@ -591,5 +591,20 @@
     <ClCompile Include="좌표 정렬하기_11650.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="먹을 것인가 먹힐 것인가_7795.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다이얼_5622.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="영단어 암기는 괴로워_20920.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 정렬_1181.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="막대기_17608.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
