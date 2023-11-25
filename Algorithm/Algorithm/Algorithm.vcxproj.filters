@@ -606,5 +606,8 @@
     <ClCompile Include="막대기_17608.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="팰린드롬인지 확인하기_10988.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
