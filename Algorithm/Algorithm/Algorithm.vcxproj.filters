@@ -609,5 +609,14 @@
     <ClCompile Include="팰린드롬인지 확인하기_10988.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="적록색약__10026.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소트인사이드_1427.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="좌표 정렬하기 2_11651.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
