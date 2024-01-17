@@ -633,7 +633,10 @@
     <ClCompile Include="2×n 타일링_11726.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="과목선택_11948.cpp">
+    <ClCompile Include="집합_11723.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="도영이가 만든 맛있는 음식_2961.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
