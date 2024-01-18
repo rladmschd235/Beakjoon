@@ -639,5 +639,8 @@
     <ClCompile Include="도영이가 만든 맛있는 음식_2961.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LCS_9251.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
