@@ -651,7 +651,10 @@
     <ClCompile Include="연결 요소의 개수_11724.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="설탕 배달_2839.cpp">
+    <ClCompile Include="직각삼각형_4153.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소수 찾기_1978.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
