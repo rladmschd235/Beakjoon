@@ -672,5 +672,8 @@
     <ClCompile Include="이항 계수 1_11050.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소수 구하기_1929.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
