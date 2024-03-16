@@ -687,5 +687,8 @@
     <ClCompile Include="소인수분해_11653.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="설탕 배달_2839.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
