@@ -699,5 +699,8 @@
     <ClCompile Include="알고리즘 수업 - 깊이 우선 탐색 1_24479.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘 수업 - 버블 정렬 1_23968.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
