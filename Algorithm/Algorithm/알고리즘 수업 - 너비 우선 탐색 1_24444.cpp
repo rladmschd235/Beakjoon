@@ -1,38 +1,45 @@
 #include <iostream>
 #include <vector>
+#include <queue>
 #include <algorithm>
 using namespace std;
 
 vector<vector<int>> graph;
 vector<int> visited;
+int N, M, R, cnt = 1;
 
-int cnt = 1;
-
-void DFS(int r)
+void BFS(int r)
 {
+	queue<int> q;
+	q.push(r);
 	visited[r] = cnt++;
 
-	for (int i = 0; i < graph[r].size(); i++)
+	while (!q.empty())
 	{
-		int v = graph[r][i];	
+		int x = q.front();
+		q.pop();
 
-		if (visited[v] == 0)
+		for (int i = 0; i < graph[x].size(); i++)
 		{
-			DFS(v);
+			int y = graph[x][i];
+
+			if (visited[y] == 0)
+			{
+				q.push(y);
+				visited[y] = cnt++;
+			}
 		}
 	}
 }
 
 int main()
 {
-	int N, M, R, cnt = 1;
+	int u, v;
 
 	cin >> N >> M >> R;
 
 	graph.resize(N+1);
 	visited.resize(N+1);
-
-	int u, v;
 
 	for (int i = 0; i < M; i++)
 	{
@@ -42,14 +49,14 @@ int main()
 		graph[v].push_back(u);
 	}
 
-	for (int i = 1; i < N+1; i++)
+	for (int i = 1; i < N + 1; i++)
 	{
 		sort(graph[i].begin(), graph[i].end());
 	}
 
-	DFS(R);
+	BFS(R);
 
-	for (int i = 1; i < N+1; i++)
+	for (int i = 1; i < visited.size(); i++)
 	{
 		cout << visited[i] << "\n";
 	}
