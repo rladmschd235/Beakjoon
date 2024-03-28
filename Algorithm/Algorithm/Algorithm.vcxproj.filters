@@ -726,5 +726,8 @@
     <ClCompile Include="단지번호붙이기_2667.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="스택 2_28278.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
