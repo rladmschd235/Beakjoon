@@ -732,5 +732,11 @@
     <ClCompile Include="도키도키 간식드리미_12789.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수학은 체육과목 입니다_15894.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="최소공배수_13241.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
