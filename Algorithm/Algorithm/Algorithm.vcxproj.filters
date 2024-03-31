@@ -738,5 +738,8 @@
     <ClCompile Include="최소공배수_13241.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="덱 2_28279.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
