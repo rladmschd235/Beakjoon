@@ -741,5 +741,8 @@
     <ClCompile Include="덱 2_28279.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="약수들의 합_9506.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
