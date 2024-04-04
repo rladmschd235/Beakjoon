@@ -12,8 +12,8 @@ int board[301][301];
 bool visited[301][301];
 queue<pair<int, int>> q;
 
-void Reset() {
-
+void Reset()
+{
 	while (!q.empty()) q.pop();
 
 	for (int i = 0; i < 301; i++)
