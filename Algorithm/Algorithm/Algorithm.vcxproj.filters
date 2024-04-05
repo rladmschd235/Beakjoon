@@ -753,5 +753,8 @@
     <ClCompile Include="토마토_7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="최소공배수_1934.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
