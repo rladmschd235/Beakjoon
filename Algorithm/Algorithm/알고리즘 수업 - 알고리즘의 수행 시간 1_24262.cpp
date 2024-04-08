@@ -7,5 +7,5 @@ int main()
 
 	cin >> N;
 
-	cout << 1 << endl << 0;
+	cout << 1 << endl << 0;	
 }
