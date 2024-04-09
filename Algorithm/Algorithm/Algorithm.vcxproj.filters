@@ -765,5 +765,20 @@
     <ClCompile Include="영역 구하기_2583.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="전자레인지_14470.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="치킨 두 마리_14489.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선린인터넷고등학교 교가_21964.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 8_2445.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운 최단거리_14940.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
