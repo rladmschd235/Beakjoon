@@ -780,5 +780,8 @@
     <ClCompile Include="쉬운 최단거리_14940.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="적록색약_10026.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
