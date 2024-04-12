@@ -783,5 +783,8 @@
     <ClCompile Include="헌내기는 친구가 필요해_21736.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="섬의 개수_4963.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
