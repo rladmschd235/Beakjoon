@@ -792,5 +792,11 @@
     <ClCompile Include="약수_1037.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="양치기 꿍_3187.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="양_3184.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
