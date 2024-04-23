@@ -813,5 +813,8 @@
     <ClCompile Include="MBTI_25640.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Celebrity jeopardy_3765.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
