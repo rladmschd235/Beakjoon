@@ -816,5 +816,11 @@
     <ClCompile Include="Celebrity jeopardy_3765.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Can you add this_7891.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="No Brainer_4562.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
