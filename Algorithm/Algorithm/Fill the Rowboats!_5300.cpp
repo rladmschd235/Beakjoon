@@ -11,11 +11,9 @@ int main()
 	{
 		cout << i << " ";
 
-		if (i % 6 == 0)
+		if (i % 6 == 0 || i == n)
 		{
 			cout << "Go! ";
 		}
 	}
-
-	cout << "Go! ";
 }
