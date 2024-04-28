@@ -825,5 +825,11 @@
     <ClCompile Include="Fill the Rowboats!_5300.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Football Team_5358.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="나무 자르기_2805.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
