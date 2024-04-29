@@ -2,17 +2,17 @@
 using namespace std;
 
 int tree[1000000];
-long long int M, N;
+int M, N, maxHigh = 0;
 
-int BinarySearch(int max)
+int BinarySearch()
 {
-	int mid = 0, rig = max, lef = 0, result = 0;
+	int mid = 0, rig = maxHigh, lef = 0, result = 0;
 
 	while (lef <= rig)
 	{
 		mid = (lef + rig) / 2;
 
-		long long int sum = 0;
+		long long sum = 0;
 
 		for (int i = 0; i < N; i++)
 		{
@@ -45,19 +45,17 @@ int BinarySearch(int max)
 
 int main()
 {
-	int max = 0;
-
 	cin >> N >> M;
 
 	for (int i = 0; i < N; i++)
 	{
 		cin >> tree[i];
 
-		if (max < tree[i])
+		if (maxHigh < tree[i])
 		{
-			max = tree[i];
+			maxHigh = tree[i];
 		}
 	}
 
-	cout << BinarySearch(max);
+	cout << BinarySearch();
 }
