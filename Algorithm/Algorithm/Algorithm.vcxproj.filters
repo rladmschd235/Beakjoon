@@ -831,5 +831,8 @@
     <ClCompile Include="나무 자르기_2805.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="과자 나눠주기_16401.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
