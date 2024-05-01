@@ -834,5 +834,11 @@
     <ClCompile Include="과자 나눠주기_16401.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="파닭파닭_14627.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="입국심사_3079.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
